@@ -27,3 +27,4 @@ an absolute error measure that squares the deviations to keep the positive and n
 
 ### Roll Forward
 ![image](https://user-images.githubusercontent.com/54477107/230594367-03244202-1832-46a3-9160-c8283afddcb6.png)
+ 
